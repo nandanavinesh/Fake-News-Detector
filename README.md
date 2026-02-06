@@ -25,6 +25,19 @@ The model was trained on the **ISOT Fake News Dataset** and achieved **~99% accu
 - Stopword removal
 
 ---
+## Dataset
+This project uses the **ISOT Fake News Dataset**.
+
+Due to GitHub file size limitations, the dataset files are not included in this repository.
+
+You can download the dataset from Kaggle:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+After downloading, place the following files in the project directory:
+- `Fake.csv`
+- `True.csv`
+
+---
 
 ## Technologies Used
 - Python
